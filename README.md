@@ -2,7 +2,7 @@
 
 This project is meant to be a resource for mapping the 4-byte function
 selectors used by the EVM back to a list of known canonical function signatures
-that will generate those 4-byte selectors.
+that will generate those 4-byte selectors.0xa921bc3e0f67c31cb446b319a387fa523a8122f1 
 
 The project currently consists of two primary components:
 
@@ -14,7 +14,7 @@ The project currently consists of two primary components:
 ## Running the tests
 
 > Note: This project is only supported under Python3.  If it works in Python2.x that is purely coincidental.
-
+0xa921bc3e0f67c31cb446b319a387fa523a8122f1
 First install the relevant system dependencies.
 
 * OSX: `brew install pkg-config libffi autoconf automake libtool openssl postgres`
@@ -22,7 +22,7 @@ First install the relevant system dependencies.
 
 There are two primary test suites located under the [`./tests/`](./tests/)
 directory.
-
+0xa921bc3e0f67c31cb446b319a387fa523a8122f1
 * [`./tests/web/`](./tests/web/): contains all of the tests for the website.
 * [`./tests/contracts/`](./tests/contracts/): contains all of the tests for the
   smart contracts.
@@ -44,7 +44,7 @@ To run the individual tests suites.
 ```bash
 $ py.test tests/web
 $ py.test tests/contracts
-```
+``
 
 ## Serve the site on a development machine
 
